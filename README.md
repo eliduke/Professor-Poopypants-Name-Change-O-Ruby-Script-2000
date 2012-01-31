@@ -3,7 +3,7 @@ Once upon a time...
 On September 25th, 2008, I was visiting my brother and sister-in-law in Portland, Oregon, and I snapped this photo:
 
 Professor Poopypants's Pocket-Sized "Name Change-O-Chart 2000"
-http://www.flickr.com/photos/elisfanclub/2908192137/
+[http://flickr.com/elisfanclub/2908192137]()
 
 It was taped to the wall in their bathroom, right by the mirror over the sink. I didn't think much of it at the time, but Professor Poopypants sure did make us laugh. Oh, the laughs!
 
@@ -15,12 +15,12 @@ On a whim tonight, I decided to scriptify the "Name Change-O-Chart 2000," as my 
 
 Feel free to download poopypants.rb and give a go on your machine. From the same directory as that file, run:
 
-	ruby poopypants.rb
+    ruby poopypants.rb
 
 You can see the "official" Professor Poopypants website here:
 
-http://apps.scholastic.com/captainunderpants/NameGame/play.htm
+[http://apps.scholastic.com/captainunderpants/NameGame/play.htm]()
 
 Looks like Professor Poopypants is in cahoots with Captain Underpants!
 
-p.s. I just typed "poopypants" 9 times. FTW!
+P.S. I just typed "poopypants" 9 times. FTW!
