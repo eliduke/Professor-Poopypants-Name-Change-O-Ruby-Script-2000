@@ -1,4 +1,4 @@
-### PROFESSOR POOPYPANTS NAME CHANGE-O-SCRIPT 2000 ###
+### PROFESSOR POOPYPANTS NAME CHANGE-O-RUBY-SCRIPT 2000 ###
 
 first_firsts = [["A", "Stinky"], ["B", "Lumpy"], ["C", "Buttercup"], ["D", "Gidget"], ["E", "Crusty"], ["F", "Greasy"], ["G", "Fluffy"], ["H", "Cheeseball"], ["I", "Chim-Chim"], ["J", "Poopsie"], ["K", "Flunky"], ["L", "Booger"], ["M", "Pinky"], ["N", "Zippy"], ["O", "Goober"], ["P", "Doofus"], ["Q", "Slimy"], ["R", "Loopy"], ["S", "Snotty"], ["T", "Falafel"], ["U", "Dorky"], ["V", "Squeezit"], ["W", "Oprah"], ["X", "Skipper"], ["Y", "Dinky"], ["Z", "Zsa-Zsa"]]
 
@@ -6,7 +6,7 @@ first_lasts  = [["A", "Diaper"], ["B", "Toilet"], ["C", "Giggle"], ["D", "Bubble
 
 last_lasts   = [["A", "Head"], ["B", "Mouth"], ["C", "Face"], ["D", "Nose"], ["E", "Tush"], ["F", "Breath"], ["G", "Pants"], ["H", "Shorts"], ["I", "Lips"], ["J", "Honker"], ["K", "Butt"], ["L", "Brain"], ["M", "Tushie"], ["N", "Chunks"], ["O", "Hiney"], ["P", "Biscuits"], ["Q", "Toes"], ["R", "Buns"], ["S", "Fanny"], ["T", "Sniffer"], ["U", "Sprinkles"], ["V", "Kisser"], ["W", "Squirt"], ["X", "Humperdinck"], ["Y", "Brains"], ["Z", "Juice"]]
 
-#######
+###
 
 first_name = ""
 while first_name == ""
