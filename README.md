@@ -2,7 +2,7 @@ Once upon a time...
 
 On September 25th, 2008, while visiting my brother and sister-in-law in Portland, Oregon, I snapped this photo:
 
-[http://flickr.com/elisfanclub/2908192137](Professor Poopypants's Pocket-Sized "Name Change-O-Chart 2000")
+[Professor Poopypants's Pocket-Sized "Name Change-O-Chart 2000"](http://flickr.com/elisfanclub/2908192137)
 
 It was taped to the wall in their bathroom, right by the mirror over the sink. I didn't think much of it at the time, but Professor Poopypants sure did make us laugh. Oh, the laughs!
 
